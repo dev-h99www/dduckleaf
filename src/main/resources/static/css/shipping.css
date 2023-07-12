@@ -1,0 +1,86 @@
+.tab-body-area{
+    position: absolute;
+    z-index: 1;
+    left: 33%;
+    right: 25%;
+    top: 18%;
+    width: 50%;
+    height: 1220px;
+}
+
+.shippinglist {
+    width: 960px;
+    height: 150px;
+    border: 1px solid #ABABAB;
+    text-align: center;
+}
+
+.shippinglist th, .shippinglist tr {
+    border-bottom: none !important;
+}
+
+.shippinglist tr, .shippinglist td {
+    width: 190px;
+}
+
+.shippinglist td {
+    font-size: 20pt;
+}
+
+.shippingdetail {
+    width: 960px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.shippingdetail th, .shippingdetail tr {
+    border-bottom: 1px solid black !important;
+}
+
+td {
+    font-size: 14pt;
+}
+
+.delay, .shippingbtn {
+    border-radius: 5px;
+    border-color: rgba(0,0,0,0);
+    background-color: #bac34e;
+    color: #FFFFFF;
+    display: inline-block;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.modifydatebtn {
+    border-radius: 5px;
+    border-color: rgba(0,0,0,0);
+    background-color: #bac34e;
+    color: #FFFFFF;
+    display: inline-block;
+    float: right;
+}
+
+.shippingbtn {
+    margin-left: 5px;
+}
+
+.delaybtn {
+    float: right;
+    border-radius: 5px;
+    border-color: rgba(0,0,0,0);
+    background-color: #bac34e;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.confirmbtn {
+    border-radius: 5px;
+    border-color: rgba(0,0,0,0);
+    background-color: #bac34e;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+
+.confirmtitle {
+    font-family: inherit !important;
+}

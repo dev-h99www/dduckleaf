@@ -1,0 +1,170 @@
+.btn-project {
+  color: #bac34e;
+  background-color: #fff;
+  border-color: #bac34e;
+  height: 50px;
+  text-align: center;
+}
+
+.btn-open:hover {
+  background-color: #bac34e;
+  border-color: #fff;
+  color: #fff;
+}
+
+.btn-fill-green {
+  color: #fff;
+  background-color: #bac34e;
+  border-color: #fff;
+  height: 40px;
+  width: 500px;
+  text-align: center;
+}
+
+.btn-fill-white {
+  color: #bac34e;
+  background-color: #fff;
+  border-color: #bac34e;
+  height: 40px;
+  width: 500px;
+  text-align: center;
+}
+
+.alittle-bigbig-btn {
+  width:350px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.alittle-big-btn {
+  width:145px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.button-box {
+  width: 500px;
+}
+
+.infoBox {
+  background-color: #fff;
+  border: 1px solid #bac34e;
+  width: 500px;
+  height: 200px;
+  font-size: 20pt;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.short-desc {
+  padding: 3%;
+}
+
+.tab {
+  color: brown;
+}
+
+.farmerCorp {
+  padding: 2%;
+}
+
+.refund-detail-title {
+  font-weight: 1000;
+}
+
+.infoBox2 {
+  background-color: #fff;
+  border: 1px solid #bac34e;
+  width: 500px;
+  height: 250px;
+  font-size: 20pt;
+}
+
+.first, .last, .prev, .next {
+  color: #ababab;
+}
+
+.paging-area {
+  margin: 20px;
+}
+
+/* 도서산간에 해당하는 ~~ 박스 색깔 */
+.notice {
+  background-color: #E5DDCC;
+  display: table;
+  width: 100%;
+  height: 50px;
+}
+
+.noticeP {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+/* 신고하기 버튼 화살표 */
+.right-arrow {
+  margin-bottom: 1%;
+}
+
+.main-content div.notice-wrap {
+  height: 1400px;
+}
+
+.main-content div.title-div, .main-content div.cont-div {
+  width: 840px;
+  margin: 30px auto 0;
+}
+
+.main-content div.cont-div .basic-btn {
+  float: right;
+  margin-bottom: 20px;
+}
+
+.main-content div.cont-div table {
+  width: 100%;
+  border-top: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.main-content div.cont-div th {
+  text-align: center;
+  height: 50px;
+  background: #efefef;
+  border-bottom: 1px solid #ababab;
+}
+
+.main-content div.cont-div td {
+  text-align: center;
+  height: 30px;
+  border-bottom: 1px solid #ccc;
+}
+
+tr.title, td.title {
+  border-bottom: none !important;
+}
+
+.main-content div.cont-div td.title, .main-content div.cont-div td.author, .main-content div.cont-div td.date {
+  background: #efefef;
+}
+
+.main-content div.cont-div table, .main-content div.cont-div th, .main-content div.cont-div td {
+  /*border: 1px solid red;*/
+}
+
+#paging {
+  margin-bottom: 20px;
+}
+
+#paging button {
+  border: none;
+  background: none;
+}
+
+#search-form {
+  text-align: center;
+}
